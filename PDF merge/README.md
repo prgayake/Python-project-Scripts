@@ -1,6 +1,6 @@
 ### Merging Multiple PDFs using Python
 
-You Need  to open your favourite Editor , create folder name 'PDFmerge'  inside create file 'mergePDF.py' copy and paste code from mergePDF.py file this repo. 
+You Need  to open your favourite Editor , create folder name 'PDFmerge'  inside create file 'mergePDF.py' copy and paste code from [mergePDF.py](https://github.com/prgayake/Python-project-Scripts/blob/main/PDF%20merge/mergePDF.py) file this repo. 
 
 Open Terminal type 
 
